@@ -5,61 +5,61 @@
             "courses": [
                 {
                     "title": "Full Stack Web Development",
-                    "image": "https://www.example.com/images/fullstack.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$299",
                     "link": "https://example.com/fullstack"
                 },
                 {
                     "title": "Python for Data Science and Machine Learning",
-                    "image": "https://www.example.com/images/python.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$249",
                     "link": "https://example.com/python"
                 },
                 {
                     "title": "Introduction to Artificial Intelligence",
-                    "image": "https://www.example.com/images/ai.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$399",
                     "link": "https://example.com/ai"
                 },
                 {
                     "title": "JavaScript: From Zero to Hero",
-                    "image": "https://www.example.com/images/javascript.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/javascript"
                 },
                 {
                     "title": "Mobile App Development with Flutter",
-                    "image": "https://www.example.com/images/flutter.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$289",
                     "link": "https://example.com/flutter"
                 },
                 {
                     "title": "Cybersecurity Essentials",
-                    "image": "https://www.example.com/images/cybersecurity.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$349",
                     "link": "https://example.com/cybersecurity"
                 },
                 {
                     "title": "Blockchain Basics",
-                    "image": "https://www.example.com/images/blockchain.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$499",
                     "link": "https://example.com/blockchain"
                 },
                 {
                     "title": "Game Development with Unity",
-                    "image": "https://www.example.com/images/unity.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$379",
                     "link": "https://example.com/unity"
                 },
                 {
                     "title": "Cloud Computing with AWS",
-                    "image": "https://www.example.com/images/aws.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$459",
                     "link": "https://example.com/aws"
                 },
                 {
                     "title": "DevOps: CI/CD with Docker and Kubernetes",
-                    "image": "https://www.example.com/images/devops.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$399",
                     "link": "https://example.com/devops"
                 }
@@ -70,61 +70,61 @@
             "courses": [
                 {
                     "title": "Digital Marketing Masterclass",
-                    "image": "https://www.example.com/images/marketing.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$150",
                     "link": "https://example.com/marketing"
                 },
                 {
                     "title": "Business Analytics with Excel",
-                    "image": "https://www.example.com/images/excel.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$129",
                     "link": "https://example.com/excel"
                 },
                 {
                     "title": "Entrepreneurship and Startup Fundamentals",
-                    "image": "https://www.example.com/images/entrepreneurship.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/entrepreneurship"
                 },
                 {
                     "title": "Financial Modeling and Valuation",
-                    "image": "https://www.example.com/images/finance.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$299",
                     "link": "https://example.com/finance"
                 },
                 {
                     "title": "Social Media Marketing Strategies",
-                    "image": "https://www.example.com/images/socialmedia.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$179",
                     "link": "https://example.com/socialmedia"
                 },
                 {
                     "title": "E-commerce Website Creation",
-                    "image": "https://www.example.com/images/ecommerce.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$229",
                     "link": "https://example.com/ecommerce"
                 },
                 {
                     "title": "Branding and Content Strategy",
-                    "image": "https://www.example.com/images/branding.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/branding"
                 },
                 {
                     "title": "Fundamentals of Project Management",
-                    "image": "https://www.example.com/images/projectmanagement.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$249",
                     "link": "https://example.com/projectmanagement"
                 },
                 {
                     "title": "Leadership and Team Building",
-                    "image": "https://www.example.com/images/leadership.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$279",
                     "link": "https://example.com/leadership"
                 },
                 {
                     "title": "Negotiation Skills for Business",
-                    "image": "https://www.example.com/images/negotiation.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/negotiation"
                 }
@@ -135,61 +135,61 @@
             "courses": [
                 {
                     "title": "Graphic Design with Adobe Photoshop",
-                    "image": "https://www.example.com/images/photoshop.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/photoshop"
                 },
                 {
                     "title": "UI/UX Design for Beginners",
-                    "image": "https://www.example.com/images/uiux.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$229",
                     "link": "https://example.com/uiux"
                 },
                 {
                     "title": "3D Animation with Blender",
-                    "image": "https://www.example.com/images/blender.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$349",
                     "link": "https://example.com/blender"
                 },
                 {
                     "title": "Video Editing with Premiere Pro",
-                    "image": "https://www.example.com/images/premiere.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$179",
                     "link": "https://example.com/premiere"
                 },
                 {
                     "title": "Photography Masterclass",
-                    "image": "https://www.example.com/images/photography.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$249",
                     "link": "https://example.com/photography"
                 },
                 {
                     "title": "Interior Design Fundamentals",
-                    "image": "https://www.example.com/images/interior.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$299",
                     "link": "https://example.com/interior"
                 },
                 {
                     "title": "Fashion Design for Beginners",
-                    "image": "https://www.example.com/images/fashion.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$189",
                     "link": "https://example.com/fashion"
                 },
                 {
                     "title": "Advanced Canva Techniques",
-                    "image": "https://www.example.com/images/canva.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$139",
                     "link": "https://example.com/canva"
                 },
                 {
                     "title": "Typography and Logo Design",
-                    "image": "https://www.example.com/images/logo.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$189",
                     "link": "https://example.com/logo"
                 },
                 {
                     "title": "Web Design with Figma",
-                    "image": "https://www.example.com/images/figma.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$249",
                     "link": "https://example.com/figma"
                 }
@@ -200,63 +200,51 @@
             "courses": [
                 {
                     "title": "Effective Communication Skills",
-                    "image": "https://www.example.com/images/communication.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$129",
                     "link": "https://example.com/communication"
                 },
                 {
                     "title": "Time Management and Productivity",
-                    "image": "https://www.example.com/images/time.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$149",
                     "link": "https://example.com/time"
                 },
                 {
                     "title": "Mindfulness and Meditation Techniques",
-                    "image": "https://www.example.com/images/mindfulness.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$119",
                     "link": "https://example.com/mindfulness"
                 },
                 {
                     "title": "Career Development and Resume Building",
-                    "image": "https://www.example.com/images/career.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$159",
                     "link": "https://example.com/career"
                 },
                 {
                     "title": "Emotional Intelligence in the Workplace",
-                    "image": "https://www.example.com/images/eq.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$189",
                     "link": "https://example.com/eq"
                 },
                 {
                     "title": "Public Speaking Mastery",
-                    "image": "https://www.example.com/images/speaking.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$199",
                     "link": "https://example.com/speaking"
                 },
                 {
                     "title": "Problem Solving and Critical Thinking",
-                    "image": "https://www.example.com/images/problem.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$179",
                     "link": "https://example.com/problem"
                 },
                 {
                     "title": "Personal Finance Management",
-                    "image": "https://www.example.com/images/finance.jpg",
+                    "image": "https://www.w3schools.com/w3images/chef.jpg",
                     "price": "$139",
                     "link": "https://example.com/finance"
-                },
-                {
-                    "title": "Learn to Code for Beginners",
-                    "image": "https://www.example.com/images/learncode.jpg",
-                    "price": "$99",
-                    "link": "https://example.com/learncode"
-                },
-                {
-                    "title": "Language Learning (Spanish, French, etc.)",
-                    "image": "https://www.example.com/images/language.jpg",
-                    "price": "$129",
-                    "link": "https://example.com/language"
                 }
             ]
         }
